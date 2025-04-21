@@ -31,7 +31,7 @@ default_args = {
 }
 
 with DAG(
-    dag_id="Dag - Atividade pratica Desenvolvimento em Cloud Aplicada - Alisson Costa",
+    dag_id="alisson_dag",
     default_args=default_args,
     schedule_interval=None,
     catchup=False,
