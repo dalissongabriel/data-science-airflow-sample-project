@@ -13,7 +13,10 @@ A DAG realiza as seguintes operações:
 - Execução de um dos caminhos (A ou B)
 - Finalização com um EmptyOperator
 
-[![Assista a demonstração](.github/screenshots/demo.mp4)](.github/screenshots/demo.mp4)
+
+<p align="center">
+   <img src=".github/screenshots/demo.png" width="600"/>
+</p>
 
 ## 🛠️ Tecnologias e Ferramentas
 
